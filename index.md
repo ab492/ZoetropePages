@@ -1,4 +1,14 @@
-## Welcome to Zoetrope Support
+<h1 align="center">
+  <br>
+  <img src="Assets/AppIcon-1024px.png" alt="Zoetrope" width="200">
+  <br>
+  Markdownify
+  <br>
+</h1>
+
+<h4 align="center">The missing video player for iPads.</h4>
+
+### Support
 
 If you have any questions or problems with Zoetrope, please feel free to reach out [here](mailto:lectern_yon.0y@icloud.com).
 
