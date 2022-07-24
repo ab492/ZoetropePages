@@ -2,7 +2,7 @@
   <br>
   <img src="Assets/AppIcon-1024px.png" alt="Zoetrope" width="200">
   <br>
-  Markdownify
+  Zoetrope
   <br>
 </h1>
 
